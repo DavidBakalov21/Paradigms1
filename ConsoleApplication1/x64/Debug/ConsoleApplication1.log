@@ -1,1 +1,7 @@
-﻿  ConsoleApplication1.vcxproj -> C:\Users\Давід\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  ConsoleApplication1.cpp
+C:\Users\Давід\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\Давід\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,17): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\Давід\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,17): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\Давід\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,17): message : this argument is used as a buffer size
+C:\Users\Давід\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,33): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication1.vcxproj -> C:\Users\Давід\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
